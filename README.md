@@ -23,4 +23,4 @@ Code is under ISC and textures are from default mod of
  - BlockMen (chest textures)
 
 ### TODO
- [ ] a GUI to dynamically add/remove bonus items.
+ - [ ] a GUI to dynamically add/remove bonus items.
